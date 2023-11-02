@@ -1,0 +1,12 @@
+######################################## Day 1
+11/2/2023 5:59 PM
+- Today I started this log to document the last few steps of my pre-job programming journey. A few days ago I started the Fleur Clothing repository. 
+  Fleur Clothing is a Clothing Store porject that uses the following technologies:
+  * The basics (HTML, CSS, Javascript)
+  * SASS (css library)
+  * React
+  * Redux (for state management)
+  * Typescript
+  * Firebase (NoSQL cloud database)
+  * GraphQL (API querying)
+  * Stripe (Payment processing)
